@@ -8,6 +8,8 @@ Goals bro goals:
 - generate some k8s shit w/ some terraform/crossplane shit I dunno
 - generate db a la astro  db
 
+![salukara - Philippines](/assets/Salukara.jpg)
+
 ## Todoozies
 
 - build cli app dir <-- doin
