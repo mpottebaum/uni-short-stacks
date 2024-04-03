@@ -12,3 +12,10 @@ Goals bro goals:
 
 - build cli app dir <-- doin
 
+## git shit
+
+in this house we push to the coast bro
+```
+git push coast <your-branch-name>
+```
+
