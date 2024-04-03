@@ -19,3 +19,5 @@ in this house we push to the coast bro
 git push coast <your-branch-name>
 ```
 
+![if u r wut u say u r a soup or star](/assets/Foodliquor.jpg)
+
