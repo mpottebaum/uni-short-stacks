@@ -1,3 +1,5 @@
+![salukara - Philippines](/assets/Salukara.jpg)
+
 # SHORT STACK
 
 Goals bro goals:
@@ -7,8 +9,6 @@ Goals bro goals:
 - cli generators
 - generate some k8s shit w/ some terraform/crossplane shit I dunno
 - generate db a la astro  db
-
-![salukara - Philippines](/assets/Salukara.jpg)
 
 ## Todoozies
 
