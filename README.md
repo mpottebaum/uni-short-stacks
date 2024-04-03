@@ -12,7 +12,12 @@ Goals bro goals:
 
 ## Todoozies
 
-- build cli app dir <-- doin
+- build starter template <-- doin
+- spike: how to keep `starter-template` and cli `create` code separate yet connected
+  - i.e., build a pipeline job to facilitate:
+    ```
+    update `starter-template` -> start CD pipeline job -> update cli `create` output per template update
+    ```
 
 ## git shit
 
